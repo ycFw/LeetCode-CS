@@ -14,6 +14,8 @@ namespace LeetCode
         {
             var dic = new Dictionary<int, int>();
 
+            // test git rebase
+
             for (int i = 0; i < nums.Length; i++)
             {
                 if (dic.ContainsKey(nums[i]))
