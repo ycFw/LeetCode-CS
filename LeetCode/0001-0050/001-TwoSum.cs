@@ -12,9 +12,7 @@ namespace LeetCode
     {
         public int[] TwoSum(int[] nums, int target)
         {
-            // continue test git reabse
             var dic = new Dictionary<int, int>();
-            // do something
 
             for (int i = 0; i < nums.Length; i++)
             {
@@ -25,7 +23,6 @@ namespace LeetCode
             }
 
             return new int[] { };
-            // test git rebase
         }
     }
 }
