@@ -12,7 +12,6 @@ namespace LeetCode
     {
         public int[] TwoSum(int[] nums, int target)
         {
-            // continue test git reabse
             var dic = new Dictionary<int, int>();
             // do something
 
@@ -25,7 +24,6 @@ namespace LeetCode
             }
 
             return new int[] { };
-            // test git rebase
         }
     }
 }
